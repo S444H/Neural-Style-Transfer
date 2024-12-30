@@ -1,0 +1,21 @@
+%0 Journal Article
+%A Karen Simonyan
+%A Andrew Zisserman
+%T Very Deep Convolutional Networks for Large-Scale Image Recognition.
+%J CoRR
+%D 2014
+%V abs/1409.1556
+%U https://kns.cnki.net/kcms2/article/abstract?v=lWc4gvQ5J1739Z9lvqiHIoZt7gcgO-0gNY2dWksBU4uIl-zA2NTXkWmF7le_anXYwHnaJdmi61sfpLroBoktpLGgJs0gBLZhRJgSUa3RvOeal-mlx-bg67-zW2CEU2QTf_jLfKwikpvzW0eDO2zEVPWO1Hini58CbqZ5vKzb6Ro=&uniplatform=NZKPT&language=CHS
+%W CNKI
+
+%0 Journal Article
+%A Diederik P. Kingma
+%A Jimmy Ba
+%T Adam: A Method for Stochastic Optimization.
+%J CoRR
+%D 2014
+%V abs/1412.6980
+%U https://kns.cnki.net/kcms2/article/abstract?v=lWc4gvQ5J14oSr6Ad-MR1yfbAaJ-4mhJzcYT909p_oIM9PvD5CoNPUOoUEfReLSjezOAaFsa75MARxWL0vspTgujKwLWJwVG1t0qtpOJ3nsIVZzXnau-aUvSZjGdkOsUolrnbBUWGYDJx5I5OODbHAczEi45oQH3sSf8Hr6ZUQs=&uniplatform=NZKPT&language=CHS
+%W CNKI
+
+ 
